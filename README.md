@@ -66,10 +66,6 @@ Install via **Arduino Library Manager**.
 
 ---
 
-## 📄 License
-MIT License – feel free to use, modify, and learn from it.
-
----
-
 ## ✨ Inspiration
 Inspired by real DLR onboard passenger information systems.
+
